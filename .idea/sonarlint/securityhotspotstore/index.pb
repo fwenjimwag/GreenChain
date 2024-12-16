@@ -13,3 +13,5 @@ M
 tests/rec-marketplace.test.ts,b/b/bb4f329e9a016e2e7170763875a2caa6fd077c7e
 J
 tests/rec-issuance.test.ts,3/2/3210185a0303b144f68a1f59baea5eb55d379c63
+P
+ contracts/energy-production.clar,8/9/89e9543c0b30e42f45f82bf4ed486803472997ea
