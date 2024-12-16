@@ -11,3 +11,5 @@ N
 contracts/rec-marketplace.clar,a/8/a869262a590fec7a81e8a603f02d3a0d0f5bb8fa
 M
 tests/rec-marketplace.test.ts,b/b/bb4f329e9a016e2e7170763875a2caa6fd077c7e
+J
+tests/rec-issuance.test.ts,3/2/3210185a0303b144f68a1f59baea5eb55d379c63
